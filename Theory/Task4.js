@@ -37,7 +37,7 @@ class UserFactory {
 }
 
 module.exports = UserFactory;
-Uso en tests:
+// Uso en tests:
 
 const UserFactory = require('../factories/userFactory');
 
